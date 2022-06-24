@@ -8,3 +8,4 @@ fn main() {
     {
         let area = area_of(width, height);
     }
+    println!("Area is {}", area);
