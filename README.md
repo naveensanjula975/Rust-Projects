@@ -1,7 +1,6 @@
 # Rust-Projects
 
 
-Rust Fundamentals Learn 
 
 ## Rust - Environment Setup
 
